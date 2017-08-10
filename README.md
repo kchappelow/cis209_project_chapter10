@@ -1,4 +1,4 @@
-# Chapter 10 project - due 12/14/2016 7:15 p.m.
+# Chapter 10 project - due 12/13/2017 7:15 p.m.
 
 Problem: MyString2 Class
 
